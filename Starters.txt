@@ -3,3 +3,6 @@ Set up
 1. Install Azure CLI 
 2. Ask me to add your credentials to the azure portal
 3. Use Azure login command from the dos prompt and follow the instruction ...
+
+
+Will use Azure Resource manager templates for environment building....
