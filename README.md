@@ -16,3 +16,11 @@ f. General Market Analysis
 a. Where is your portfolio headed based on the market
 b. News which are important to you based on the stock and generic trend on the Stock Markets and World Indices.
 
+Generic Themes
+1. New Clustering- We group related news articles together, using advanced entity recognition techniques and mathematical algorithms
+2. Real time Price Analytics
+Our highly optimized, low-latency, in-memory Market Feed Handler is designed to receive tick-by-tick live Stock Exchange data and perform millions of calculations in real time, to bring you never-seen-before market movement analysis.
+3. Sentiment Analysis
+Our revolutionary NLP (Natural Language Processing) based sentiment analysis engine is carefully hand-crafted, to accurately and efficiently gauge the impact of news on the stock market, in real time.
+4.Visualization
+It's all about visualization, really. We process millions of data nodes in real time to bring you the most intuitive, insightful graphs and clear visual indicators of dozens of factors that represent and influence stock market dynamics
